@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "project_mick_and_rory",
+"productName": "project_scrumfun",
 "dataUrl": "Builds.data.unityweb",
 "wasmCodeUrl": "Builds.wasm.code.unityweb",
 "wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
@@ -9,5 +9,6 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "backgroundUrl": "Builds.jpg",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#FFFFFF"
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
 }
